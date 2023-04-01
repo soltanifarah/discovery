@@ -6,14 +6,9 @@ This application is designed to provide tourists with information on tourist loc
 This is a sample License README for the Algérie Tourisme Application, a tourism app developed for Android. 
 The app provides information about tourist spots in Algeria and helps users plan their trips
 
-Ce programme est distribué dans l'espoir qu'il sera utile,
-mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de
-QUALITÉ MARCHANDE ou ADAPTATION À UN USAGE PARTICULIER. Voir le
-Licence publique générale GNU pour plus de détails.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-Vous devriez avoir reçu une copie de la licence publique générale GNU
-avec ce programme. Sinon, voir <https://www.gnu.org/licenses/>
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
 Discovery Copyright (C) <2022> < Soltani Farah>
-Ce programme est livré avec ABSOLUMENT AUCUNE GARANTIE ; 
-pour plus de détails allez à: https://github.com/soltanifarah/discovery.git
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; for more details go to: https://github.com/soltanifarah/discovery.git
